@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.io/api/cookbook/recipe/0032-collection/collection.json",
+  "id": "https://raw.githubusercontent.com/fenekku/canopy_test/refs/heads/main/test_canopy_1.json",
   "type": "Collection",
   "label": {
     "en": [
