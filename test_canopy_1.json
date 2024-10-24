@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0032-collection/collection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "My Canopy Test 1"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://prism.northwestern.edu/api/iiif/record:k9ram-0sr55/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "A north-african armband"
+        ]
+      }
+    },
+    {
+      "id": "https://prism.northwestern.edu/api/iiif/record:4e1vv-18929/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Officers' Club Card for Fort Benjamin Harrison, Indiana"
+        ]
+      }
+    }
+  ]
+}
